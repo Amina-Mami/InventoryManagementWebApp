@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce projet est une application de gestion de stock distribuée en microservices. Il utilise les technologies suivantes : Spring Boot / Docker /Kubernetes /Eureka /Keycloak 
+Ce projet est une application de gestion de stock distribuée en microservices Utilisant les technologies Spring Boot / Docker /Eureka /Keycloak 
 
 
 ## Architecture
